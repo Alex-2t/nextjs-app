@@ -1,0 +1,2 @@
+echo "Run TS check"
+yarn check-types
